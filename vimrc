@@ -13,3 +13,6 @@ filetype on
 " Syntax on
 syntax on
 
+" Enable smart indent
+set smartindent
+
