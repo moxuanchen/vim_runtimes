@@ -16,3 +16,6 @@ syntax on
 " Enable smart indent
 set smartindent
 
+" Hightlight search result
+set hlsearch
+
