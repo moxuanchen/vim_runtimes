@@ -19,3 +19,10 @@ set smartindent
 " Hightlight search result
 set hlsearch
 
+" Auto lookup tags file
+set autochdir
+set tags=tags;
+
+set laststatus=2
+set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [POS=%04l,%04v][%p%%]\ [LEN=%L]
+
